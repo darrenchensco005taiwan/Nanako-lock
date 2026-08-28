@@ -1,12 +1,13 @@
 # assets
 
-These identity files lived in the original Grok skill folder and were not available
-in the later session, so they could not be uploaded automatically:
+- `GrokMiniatureMan.png.b64` is committed.
+- Run `python3 scripts/write_stamp.py` to write `GrokMiniatureMan.png` (18x33 RGBA).
 
-- `castle_stair_lingerie_master.jpg` — face/body zero-base (castle-stair black lingerie)
+Drop these three originals here, exact names:
+
+- `castle_stair_lingerie_master.jpg` — face/body zero-base
 - `chatgpt_a_stance_proof.png` — wide A-stance, thin shafts, large gap
-- `office_tall_bookshelf.jpg` — tall tower shelf camera, not desk-forward
-- `GrokMiniatureMan.png` — 18x33 RGBA stamp. Paste after generation. Never regenerate.
+- `office_tall_bookshelf.jpg` — tall tower shelf camera
 
-Drop the originals here with those exact names, then push this folder again.
+Source zip from the Grok thread: Nanako_lock_project.zip
 Do not replace the castle master with a later office generation.
