@@ -1,0 +1,151 @@
+NANAKO UNIVERSAL PROMPT
+=======================
+Use this every time. Do not rewrite the lock. Only fill the 4 variables.
+
+
+1. ALWAYS LOCK  (do not edit this block)
+----------------------------------------
+Keep this exact girl Nanako from the castle-stair black-lingerie master.
+
+FACE LOCK
+- Same face, bangs, eyes, nose, lips, expression baseline, skin tone.
+- Same head-to-body ratio. Do not shrink or enlarge the head.
+
+BODY LOCK  = fairy, not human anatomy
+- Taiwan / East-Asian lean skeleton.
+- Narrow waist, narrow hips, no Kardashian body.
+- No big ass. No massive thighs. No massive upper legs.
+- Pencil-thin shafts from hip to knee.
+- CUT THE MUSCLE. Do not paint quadriceps, adductors, or standing-leg fill.
+- Inner-thigh GAP is mandatory in EVERY stance:
+  feet together, standing straight, A-stance, stride, or wide opening.
+  Closed feet still show a clear gap. Open feet only make the gap larger.
+  Never close the gap. Never thicken the shaft to fill it.
+- Opening the legs increases the GAP, never the SHAFT.
+- Do not recalculate musculature. No muscle deformation. No weight-shift fill.
+- Breast volume may stay full. Everything below the waist stays lean.
+- Long arms, very long legs. Use the full limb length. Do not crop them.
+- Two hands only. Two arms from the correct sockets. No cropped hands.
+
+MINIATURE LOCK
+- Do NOT generate any tiny man.
+- After the image is finished, PASTE the original GrokMiniatureMan stamp
+  (18x33 px RGBA, the file named GrokMiniatureMan.png).
+- Place it on the FLOOR beside the planted heel, or between both heels.
+- Never under a stiletto tip. Never flying. Never enlarged. Never regenerated.
+
+PHOTO STYLE LOCK
+- Keep the master photo style: clean, natural white balance, real skin.
+- No orange skin. No pseudo-HDR. No gritty noise. No dirty oversharpen.
+
+
+2. FILL ONLY THESE 4 LINES
+--------------------------
+OUTFIT:   [example: sheer red lace lingerie + garter + stockings + red or black pumps]
+LIGHT:    [example: late-afternoon warm sun / blue hour / neon night / restaurant lamps]
+SCENE:    [example: high-altitude tall-bookshelf bayview office / Kaohsiung Harbor / Dream Mall / SKM Park Outlets / castle stair / seashore / pool]
+COUNT:    [example: 20]
+
+
+3. POSE LAW  (this is an order, not a permission)
+-------------------------------------------------
+Do not default to safe closed-feet catalog stands.
+Most frames MUST be large-scale elegant editorial fashion poses that use her
+insane long arms and insane long legs against real objects in the scene.
+
+Required grammar:
+- Full body, head-to-heel in frame. Do not waste the long limbs.
+- She COUNTERACTS the environment: reach the highest shelf, trail fingers along
+  a spine of books, lean a forearm on a tall stack, one palm on a glass pane,
+  one heel on a lower rung, hip barely grazing a desk edge, look down a long
+  aisle, stretch toward a high lamp, hold a high rail, step past a column.
+- Stance may be closed, A-stance, wide opening, long stride, crossed ankle,
+  or one-foot-forward. ALL of those keep the inner-thigh gap.
+- A-stance and wide openings are not "allowed." They are normal tools.
+  Use them often. Keep shafts pencil-thin.
+- Expression varies: calm, glance, half-smile, look-back, look-down, look-up.
+- Change arms, head, and contact point with the room.
+- Do not change hip width, thigh width, or upper-leg width.
+
+
+4. COPY-PASTE PROMPT
+--------------------
+Keep this exact girl Nanako from the attached castle-stair black-lingerie master.
+Same face, same head-to-body ratio, same skin, same clean photo style.
+No orange skin. No pseudo-HDR. No dirty noise.
+
+Body lock: fairy ectomorph, not human muscle. Taiwan lean limbs and waist.
+No Kardashian body. No big ass. No massive thighs. No massive upper legs.
+CUT THE MUSCLE. No quadriceps, no adductor bulk, no standing-leg fill.
+Pencil-thin hip-to-knee shafts in every frame.
+Inner-thigh gap is mandatory even when she stands straight with feet together.
+Closed stance still shows a clear gap. Open stance only makes the gap larger.
+Never close the gap. Never thicken the shaft.
+Do not recalculate musculature. No muscle deformation.
+Long arms and very long legs, fully in frame. Two hands only, not cropped.
+
+Outfit: {OUTFIT}
+Lighting: {LIGHT}
+Location / scene: {SCENE}
+Create {COUNT} different full-body editorial fashion photos.
+
+POSE LAW: invent highly varied large-frame elegant editorial poses.
+She must counteract objects in the scene with her long arms and long legs
+(reach highest shelf, trail fingers on books, forearm on a tall stack,
+palm on glass, heel on a lower rung, stretch to a high lamp, hold a rail,
+step past a column). Do not default to safe arms-at-sides catalog stands.
+A-stance, wide openings, long stride, crossed ankle, and closed stance
+are all in the set. Every stance keeps the inner-thigh gap and pencil shafts.
+
+Do not generate a miniature man.
+After generation, paste the attached GrokMiniatureMan.png at original 18x33 size
+on the floor beside the planted heel or between both heels.
+Do not put it under the heel tip. Do not enlarge it. Do not regenerate it.
+
+Reject any frame with: extra limbs, cropped hands or feet, orange skin,
+pseudo-HDR, closed thigh gap, heavier thighs than the castle master,
+or a generated tiny man.
+
+Filename: NN_pose-description_ALPHANUMERIC.jpg
+
+
+5. FILENAME RULE
+----------------
+NN_pose-description_ALPHANUMERIC.jpg
+Example: 04_reach_highest_shelf_ATX0D.jpg
+
+
+6. HARD REJECT
+--------------
+- Kardashian hip / glute / thigh
+- Closed inner-thigh gap, including feet-together stands
+- Any added shaft volume when legs open
+- Third arm / missing arm / cropped hands or feet
+- Head too small or too big
+- Orange skin / pseudo-HDR / dirty noise
+- Safe repetitive catalog poses that ignore the room
+- Any AI-drawn miniature instead of the pasted stamp
+
+
+7. WHAT TO ATTACH
+-----------------
+NANAKO JOBS
+- In THIS ongoing Grok project: do not re-attach the castle-stair master
+  every time. Say "Nanako lock" and fill the 4 variables.
+- In a NEW chat, or in ChatGPT / Gemini / another Grok thread:
+  ALWAYS attach the original castle-stair black-lingerie photo.
+  Do not attach a later generated office frame. Those already drifted.
+- Always attach GrokMiniatureMan.png if you want the stamp pasted.
+
+OTHER GIRL JOBS  (temporary identity swap)
+- Attach ONE real digital-camera photo of that girl. That photo is the FACE.
+- Keep every BODY / POSE / STYLE / MINIATURE rule in this card unchanged.
+- Add this line at the top of the copy-paste prompt:
+
+  Temporary identity swap: use the attached real photo as FACE only.
+  Do not use Nanako's face. Apply the same fairy body law
+  (cut muscle, pencil shafts, inner-thigh gap even when feet are together).
+  If the attached photo's legs are heavier than the law, follow the LAW,
+  not the photo's mass.
+
+- One identity per job. Do not mix two faces in one batch.
