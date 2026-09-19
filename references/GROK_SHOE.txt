@@ -1,0 +1,41 @@
+GrokShoe — platinum rail 2026-09-18 (user lock)
+==============================================
+
+Live 12 cm red-bottom stiletto masters. Shape + cap law from these four.
+Color follows the outfit. Red lacquer outsole always.
+
+| Color | File | When |
+|---|---|---|
+| Black patent (DEFAULT) | assets/shoes/Grok12cmGlossyBlackStiletteRedBottom1.webp | default lingerie / black OL / silent job |
+| Red patent | assets/shoes/Grok12cmGlossyRedStiletteRedBottom1.webp | red / burgundy outfit named |
+| Silver | assets/shoes/Grok12cmGlossySilverStiletteRedBottom1.webp | silver / metallic outfit named |
+| White patent | assets/shoes/Grok12cmGlossyWhiteStiletteRedBottom1.webp | white / ivory outfit named |
+
+These files are ref_images ONLY. Never file_path. Never face. Never body.
+
+SHAPE LOCK
+- Single-needle pointed pump. No platform. No chunky block heel.
+- Heel height lock = 12.00 cm from cup-join to rubber-cap bottom.
+- Cup-join = where the needle meets the last = Nanako's foot sole.
+- Crown → cup-join = 198 cm. Crown → rubber bottom = 210 cm.
+- Pixel math lives in GrokHeelHead. Do not guess.
+
+CAP LAW (user 2026-09-18 — 匠约 12cm)
+- Black rubber tip on ALL four colors. Not nude. Not red.
+- The rubber is the SAME diameter as the stem. Same silhouette as the needle.
+- It is a short flush tip, not a cobbler block glued on wider than the stem.
+- ILLEGAL: a second rectangle sticking out left/right of the needle.
+- ILLEGAL: a tall pad that adds extra centimetres to Hs.
+- ILLEGAL: white / gray mosaic cubes around the tip (pixel-smear class).
+- Visual test: at 4× crop, the stem line continues into the tip with no step-out.
+
+PROMPT LANGUAGE
+- "12 cm single-needle patent pump, red lacquer outsole, black rubber tip the same diameter as the stem, flush, not a protruding block."
+- Name the upper color. Always name the red outsole.
+
+DROP
+- Platform. Block heel. Kitten. Wedge.
+- Heel cm observed < 10.5 or > 14.0 (14.48 pain class).
+- Cap wider than the stem. Cap taller than ~4 mm visual.
+- Mosaic / posterized red outsole squares.
+- Wrong upper color vs the job card.

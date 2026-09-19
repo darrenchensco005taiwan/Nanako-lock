@@ -1,0 +1,29 @@
+GrokBodyAngle — platinum rail 2026-09-18
+=======================================
+
+Axial / symmetric grand view
+  正廳 正樓梯 正大道 正門 正堂 正塔 axial throne axial courtyard
+  DEFAULT = 100% FRONT BODY + 100% FRONT FACE.
+  Square test (all must hold): both shoulders same distance to camera,
+  pelvis faces the lens, sternum to camera, both iliac crests even,
+  nose on the frame centerline, both ears equally visible, both eyes
+  equally seen. Feet may open but stay symmetric. No fashion hip-cock.
+  "Head may turn" is OPTIONAL seasoning, never the default.
+  Chef reprinting one coffee 3/4 on every axial plate = 毛延壽.
+  Fashion hip-cock / weight-shift that swings the near hip toward camera
+  is 3/4 body. On an axial view that is SIDE. Castle probe T01 class = waiter fail.
+  Default side / lookback / full 3/4 body OR 3/4 face on these views = waiter fail.
+
+Queen-on-axis GAZE
+  君臨 / 俾倪天下 on a symmetric hall, stair, gate, throne, avenue, tower:
+  eyes LEVEL or slightly DOWN at her domain. Never default chin-up at the
+  chandelier, vault, or landing.
+  Head turn is optional seasoning only. Default face is full front.
+
+Asymmetric or local crop
+  one wing, one colonnade, one battlement corner, one aisle, one hedge
+  BODY YAW may be up to 30% side (~30°). Not a pure profile unless the job names it.
+
+Face yaw is NOT this rail. Face yaw follows performance.
+Identity bones stay NanakoMasterReferenceFront. Holding 7CTk1 is not identity.
+Repeating one coffee 3/4 face = 毛延壽.

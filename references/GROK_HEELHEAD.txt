@@ -1,0 +1,62 @@
+GrokHeelHead — platinum rail 2026-09-18
+======================================
+
+Q = Hs / Hh
+Hh = crown → chin (same head as N)
+Hs = heel-cup join → black rubber-cap bottom (stem only)
+
+Front / 90% front / 1/8
+  target 0.52   legal 0.42–0.65   gray 0.66–0.74   DROP Q≥0.75 or Q≤0.32
+
+Pure side / lookback (full stem visible)
+  target 0.60   legal 0.48–0.70   gray 0.71–0.79   DROP Q≥0.80 or Q≤0.32
+
+Do not crop feet to fake Q. Do not 9:16. Pull camera back.
+Keep GrokCinemaRig 2.0 m / mid-thigh / +3° / **24 mm on 135**.
+N pass + Q DROP = DROP.
+
+ILLEGAL Q shortcuts (user 2026-09-18, tightened)
+BANNED focal to fake Q: 28 mm, 35 mm, 50 mm, 85 mm.
+- Do not fill the frame so Q looks small. That is short N + meat.
+- Do not park feet in the 24 mm corner then accept the stretched stem.
+Legal Q = the SAME 24 mm 135 wide, camera back, both caps on marble
+inside the frame and OFF the distortion ring.
+
+------------------------------------------------
+198 cm / 12 cm PIXEL LAW (user 2026-09-18 — platinum)
+------------------------------------------------
+
+Nanako scale lock:
+- Crown → cup-join (foot sole) = **198.00 cm**. Cup-join = where the needle meets the last. NOT the toe on marble. NOT the rubber.
+- Cup-join → rubber-cap bottom = **12.00 cm**. Stem only.
+- Crown → rubber-cap bottom = **210.00 cm** (198 + 12).
+
+On any standing plate, measure pixels on the SAME landed shoe used for N:
+
+    P_body = Y_cup − Y_crown          # 198 cm
+    P_heel = Y_rubber − Y_cup         # 12 cm
+    P_stand = Y_rubber − Y_crown      # 210 cm
+
+    R = P_heel / P_body
+    heel_cm = R × 198
+
+Exact fractions:
+    P_heel / P_body  = 12 / 198 = 2/33 ≈ 0.060606
+    P_stand / P_body = 210 / 198 = 35/33 ≈ 1.060606
+    P_heel = P_body × (12/198)
+    P_stand = P_body × (210/198)
+
+Example (rear plate class, P_body = 1217 px):
+    12.00 cm → 1217 × 12 / 198 ≈ 73.8 px
+    14.48 cm pain class was the illegal tall stem.
+
+Live numbers
+    target heel_cm = **12.00**
+    legal          = **11.0–13.0**
+    gray           = 10.5–10.9 and 13.1–13.9
+    DROP           = heel_cm < 10.5 or heel_cm > 14.0
+
+Front plates: the stem is often hidden. Do not invent a 12 cm correction on a front plate you cannot see. Measure Q from the visible join if it reads; otherwise skip heel_cm and keep Q.
+
+Do not lengthen the rubber pad to fake a 12 cm stem. Do not shorten N to fake Q.
+Cap diameter law is GrokShoe: rubber = stem diameter, no protruding block.

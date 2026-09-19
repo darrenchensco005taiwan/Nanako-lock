@@ -1,0 +1,18 @@
+GOLD RAILS — read before any Nanako plate
+=========================================
+
+PERSON ZERO POINT (2026-09-19)
+- Front: assets/body/NanakoMasterReferenceFront.jpg
+- Back:  assets/body/NanakoMasterReferenceBack.jpg
+- Holding 7CTk1 must not influence any redraw.
+
+Still live Platinum / Sub rails (do not loosen):
+- GrokMiniStamp
+- GrokCinemaFrame / GrokCinemaRig (24mm 135, no 28/35/50/85 shortcut)
+- GrokHeelHead + 198cm / 12cm pixel law
+- GrokShoe (flush cap, same diameter as stem, red outsole)
+- GrokBodyAngle
+- GrokChopstick
+- Grok85Floor
+
+Conflict: Nanako herself (face, hair, body, H, skeleton, pencil legs, skin, makeup, default outfit, default heels, WB, photo style, person-vs-scene fill) WINS with the two live masters.
