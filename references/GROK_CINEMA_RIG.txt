@@ -1,0 +1,23 @@
+GrokCinemaRig — platinum camera geometry (user 2026-09-17)
+=========================================================
+
+Live geometry (targets F 72% on a 210 cm heeled girl)
+- Distance camera → Nanako: **2.0 m**. Not 2.5 m.
+- Camera height: **mid-thigh**.
+- Tilt: **+3°** (up). Legal +2–4°.
+- Focal class: **24 mm on 135**. True wide.
+  BANNED: 28 mm, 35 mm, 50 mm, 85 mm, 14 mm fish, phone ultrawide.
+
+Grade is NOT this rail
+- Do NOT write Fujifilm / GFX100S / film simulation in the Imagine prompt.
+- Grade stays NanakoMasterReferenceFront (front jobs) or NanakoMasterReferenceBack (back jobs).
+- Holding 7CTk1 is not grade.
+
+Waiter prompt MUST say, every first shot
+- camera 2.0 meters from Nanako
+- camera at mid-thigh height
+- +3 degree tilt up
+- 24 mm on 135, true wide. NOT 28, NOT 35, NOT 50, NOT 85
+- subject does not fill the frame
+- empty window or sky above the crown
+- marble visible under the heel caps

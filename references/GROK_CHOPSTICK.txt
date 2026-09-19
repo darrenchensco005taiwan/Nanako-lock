@@ -1,0 +1,47 @@
+GrokChopstick — platinum shaft rail (user 2026-09-17)
+=====================================================
+
+Why
+- Adjectives (筷子腿 / lean pencil) were read as "thinner than Kardashian".
+- Pose / motion may change joint angles. Hip→knee CROSS-SECTION may not.
+
+Measure
+- Hh = crown → chin. Same head used for N.
+- Tw = ONE thigh mid-shaft width, perpendicular to the femur, at the hip→knee midpoint.
+- Standing / A-stance / 3-4: measure the loaded leg.
+- S = Tw / Hh
+- ΔS = S_pose − S_Front (or S_Back on a rear plate)
+
+Lock samples: measure S on NanakoMasterReferenceFront / Back.
+Historical 7CTk1 S ≈ 0.50 is HOLDING only and must not override the live masters.
+
+Live numbers
+
+Front / 3-4 / A-stance loaded leg
+- target S 0.50
+- legal 0.46–0.53
+- gray 0.54
+- DROP  S ≥ 0.55
+
+Pure side
+- target S 0.52
+- legal 0.48–0.54
+- gray 0.55
+- DROP  S ≥ 0.56
+
+Open-step drift
+- target ΔS ≤ 0.02
+- legal ΔS ≤ 0.03
+- DROP  ΔS ≥ 0.04
+
+Helper: knee / mid-shaft 0.74–0.86. Below 0.70 = sausage = DROP with S.
+
+Law
+- Feet may open. Gap may grow. S may not grow.
+- "筷子 / pencil / lean" without a passing S is not a pass.
+- Do not recook a fat shaft. DROP. First shot only.
+
+Waiter prompt must say
+- same hip-to-knee shaft thickness as NanakoMasterReferenceFront / Back
+- do not recalculate thigh muscle
+- A-stance only widens the gap

@@ -1,0 +1,24 @@
+Grok dual master — 2026-09-19 尚方宝剑
+=====================================
+
+LIVE FRONT: assets/body/NanakoMasterReferenceFront.jpg
+LIVE BACK:  assets/body/NanakoMasterReferenceBack.jpg
+
+These two plates are the zero point for every redraw:
+Face Identity, Hair Style, Body Ratio, H, Skeleton, Lean Thigh Pencil Legs,
+Skin Grade, Makeup, Default Outfit, Default 12cm red-bottom stilettos,
+white balance / photo style, person-vs-scene fill.
+
+NEVER sibling-redraw from a last plate.
+
+HOLDING (must not influence any redraw):
+assets/body/_holding_7CTk1/
+  master_7CTk1_9216h_cutout.jpg
+  master_7CTk1.jpg
+  master_7CTk1_4096h_pantry_RETIRED.jpg
+  7CTk1-9216h-cutout.jpg
+
+7CTk1-9216h-cutout is ABOLISHED as a live master as of 2026-09-19.
+Do not use any holding file as file_path, ref_images, face, hair, body, grade, or outfit.
+
+Conflict: other Platinum Rails stay. If a rail fights Nanako-the-person, Front / Back WIN.

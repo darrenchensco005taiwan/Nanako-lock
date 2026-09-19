@@ -1,0 +1,21 @@
+GrokMiniStamp canonical plate
+=============================
+Job: Nanako OL30 CEO bookshelf
+Plate: RAW Grok20260915_204000_30_sill_and_shelf.jpg
+User lock date: 2026-09-16
+User words: "This is EXACTLY EXACTLY EXACTLY what I want"
+
+Asset: GrokMiniatureMan_sole.png  18 x 24
+Cap (right landed needle, last dark pixel before marble): 677, 1425
+Stamp top-left: 650, 1402
+Box: 650,1402 – 667,1425
+Side: LEFT of cap (Sx = Nx - 27)
+Sy = Ny - 24 + 1 = 1402
+
+What this plate taught
+- 18x33 padded canvas = fake bottom. Cut it.
+- Gloss marble reflection under the needle is not a standing gap.
+- Cap Y is the rubber tip, not the outsole, not the toe, not the pump.
+- Proof is a red horizontal through Ny with the stamp box sitting on it.
+- Collision ban: 18x24 box may not contain body, hair, stocking, shoe, bag, furniture.
+  First side hits → flip X. Never slide Y up the stem.
