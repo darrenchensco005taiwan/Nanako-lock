@@ -1,13 +1,19 @@
-# assets
+# Assets
 
-- `GrokMiniatureMan.png.b64` is committed.
-- Run `python3 scripts/write_stamp.py` to write `GrokMiniatureMan.png` (18x33 RGBA).
+Live zero point (add with a local `git push`; GitHub MCP cannot carry 2MB masters):
 
-Drop these three originals here, exact names:
+- `assets/body/NanakoMasterReferenceFront.jpg`
+- `assets/body/NanakoMasterReferenceBack.jpg`
+- `assets/shoes/Grok12cmGlossy{Black,Red,Silver,White}StiletteRedBottom1.webp`
+- `assets/GrokMiniatureMan_sole.png` (18x24, platinum stamp)
+- `assets/GrokMiniatureMan_noreflect.png`
+- `assets/landmark/85Floor_day_vertical.jpg`
+- `assets/landmark/85Floor_day_oblique.jpg`
 
-- `castle_stair_lingerie_master.jpg` — face/body zero-base
-- `chatgpt_a_stance_proof.png` — wide A-stance, thin shafts, large gap
-- `office_tall_bookshelf.jpg` — tall tower shelf camera
+Holding only, do not use as file_path:
+- `assets/body/_holding_7CTk1/` (not in this commit)
 
-Source zip from the Grok thread: Nanako_lock_project.zip
-Do not replace the castle master with a later office generation.
+History still on this repo, not live masters:
+- `castle_stair_lingerie_master.jpg`
+- `chatgpt_a_stance_proof.png`
+- `office_tall_bookshelf.jpg`
