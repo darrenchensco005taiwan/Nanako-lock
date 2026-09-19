@@ -1,0 +1,34 @@
+Grok85Floor — platinum landmark rail (user 2026-09-17)
+=====================================================
+
+Legal spoken / prompt name (one token)
+- 中文：高雄85大樓 或 東帝士85大樓。台灣口語只說「85大樓」。
+- English prompt token：85Floor
+  85 + Floor 連在一起。F 必須大寫。
+
+BANNED names (do not type these into Imagine)
+- T85 / T-85 / T 85
+Cause: T reads as Taipei. Chef then draws Taipei 101.
+
+Legal building
+高雄85大樓 / 東帝士85大樓 / Tuntex Sky Tower, Lingya, Kaohsiung.
+NOT Taipei 101. NOT N Seoul Tower. NOT Canton Tower. NOT Macau Tower.
+
+Fingerprint (must all read on a clear window)
+1. Two lower WINGS / prongs.
+2. The wings join into ONE tall teal-green rectangular SHAFT.
+3. A rectangular PORTAL / hollow through the mid-building where the prongs meet.
+4. Pointed CROWN + thin antenna.
+
+Live refs (landmark ONLY — never file_path)
+- assets/landmark/85Floor_day_vertical.jpg
+- assets/landmark/85Floor_day_oblique.jpg
+
+Waiter law when the job names 高雄 / 85Floor / 85大樓 / bay office with the tower
+- Prompt MUST say 85Floor and/or 高雄85大樓. MUST NOT say T85.
+- ref_images MUST include at least one of those two files.
+- Prompt MUST name the portal and ban Taipei 101 / needle towers.
+- After first shot: no portal, or 101 stacked boxes, or lattice needle — DROP.
+
+When the job does NOT name 高雄 / 85Floor / 85大樓, do not force the tower.
+Day and night are the SAME geometry. Night only changes brightness.

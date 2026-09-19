@@ -1,0 +1,47 @@
+GrokCinemaFrame — platinum rail 2026-09-17 (numbers rewritten)
+==============================================================
+
+User 2026-09-17: fill is secondary. Heads-tall is the point.
+Do not fake N by cooking 9:16. Honest 4:5 only unless the job names another AR.
+
+ASPECT
+- Job silent on AR → AR = 4:5. Write `4:5` in the prompt.
+- Canonical size family: 1264×1568 (W/H ≈ 0.806).
+- 9:16 / 3:4 / 16:9 / 1:1 without a user AR = DROP. Do not recrop.
+
+Measure
+- Crown = top of hair volume. Not a flyaway.
+- Chin = lowest flesh of the chin.
+- Heel = landed rubber-cap tip. Not the toe. Not the outsole.
+- Standing fill F = (heel - crown) / frame_H.
+- Heads-tall N = (heel - crown) / (chin - crown). THIS IS THE POINT.
+- Head share = (chin - crown) / (heel - crown) = 1/N. Derived only.
+- Raised hands are ignored for F and N.
+
+Live numbers
+- Standing fill F        target 72%.  Legal 68–76%.
+- Air above hair         target 18%.  Legal 16–22%.
+- Marble under cap       target 10%.  Legal 8–12%.
+- Heads-tall N           target 8.2.  Legal 8.10–8.40.
+- Head share             target 12.2% (=1/8.2). Legal 11.90–12.35%.
+
+DROP
+- F ≥ 78% spider / no bay.
+- F ≤ 66% lost-in-the-room. Do not shrink her to save the bay.
+- N < 8.05 normal-woman head.
+- N ≥ 8.60 doll / spider skull.
+- Hair or shoes in 24mm corners.
+- Wrong AR when the job did not name it.
+
+Gray: N 8.41–8.59.
+
+#15 is HISTORY, not the live number lock.
+Face/body file_path is NanakoMasterReferenceFront.jpg or NanakoMasterReferenceBack.jpg.
+Holding 7CTk1 is not file_path.
+
+Waiter
+- Write 4:5. Geometry is GrokCinemaRig: 2.0 m, mid-thigh, +3° up, 24 mm on 135.
+- BANNED: 28 / 35 / 50 / 85 mm.
+- Face yaw is performance. Do not lock a coffee 3/4.
+- N does not excuse a fat S (GrokChopstick) or a stretched heel (GrokHeelHead).
+- Axial hall/stair/gate/tower = 90% front body (GrokBodyAngle).
