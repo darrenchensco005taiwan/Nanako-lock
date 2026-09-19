@@ -17,5 +17,9 @@ What this plate taught
 - Gloss marble reflection under the needle is not a standing gap.
 - Cap Y is the rubber tip, not the outsole, not the toe, not the pump.
 - Proof is a red horizontal through Ny with the stamp box sitting on it.
-- Collision ban: 18x24 box may not contain body, hair, stocking, shoe, bag, furniture.
-  First side hits → flip X. Never slide Y up the stem.
+
+Stance Y (user 2026-09-20)
+- Closed-leg FRONT: only toe tips. Horizontal Y through both tips. Stamp at the midpoint of the two tip-touch points. Same Y. Collision ban stays.
+- Closed-leg BACK: only rubber-cap bottoms. Horizontal Y through both caps. Stamp at the midpoint of the two cap-touch points. Same Y. Not beige sole.
+- FRONT no-cap (wide A-stance / open toes only): pick one landed toe tip. Y through that tip. Stamp 50 px left OR right of the tip-touch X (Sx = Tx+50 or Tx-68). Must not hit her shoes, body, or any nearby object.
+- If any cap is visible on a front plate, do not use the 50 px toe rule. Use the cap.
