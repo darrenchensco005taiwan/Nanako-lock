@@ -1,4 +1,4 @@
-WRITE 2026-10-04 03:28 — replaces WRITE_2026-09-25_2004.txt. The 9/25 tCKrf body lock is deleted.
+WRITE 2026-10-04 03:28.
 - FACE + HAIR + BODY = the chosen live master. Not tCKrf. Not the KInUD bust.
 - Not OL: assets/body/NanakoMasterReferenceFront_lingerie.jpg
 - OL smile: assets/body/NanakoMasterReferenceFront_OL_smile.jpg
