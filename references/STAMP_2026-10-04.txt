@@ -1,0 +1,12 @@
+2026-10-04. Stamp habit unchanged. 18x24. Sy = Ny - 24 + 1. Left Sx = Nx - 27. Right Sx = Nx + 9.
+
+Official asset: assets/GrokMiniatureMan_sole.png (18x24).
+Alias: assets/GrokMiniatureMan_noreflect.png.
+Shared rail: skill grok-ministamp.
+No 18x33 padded canvas.
+
+1. Exactly one miniature. Never generate him.
+2. PIL after accept. No Imagine nudge.
+3. Pin is the landed rubber-cap tip. Sy = Ny - 24 + 1.
+4. Left Sx = Nx - 27. Right Sx = Nx + 9. Empty ground only. Flip X if the first side hits. Never change Y to dodge.
+5. Two caps: either cap. One cap: that cap. No cap, toes only: midpoint of the two toe tips. Back caps only: midpoint of the two cap tips. Off the floor: navel X, on solid ground.
