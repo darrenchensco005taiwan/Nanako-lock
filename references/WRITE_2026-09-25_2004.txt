@@ -1,8 +1,0 @@
-WRITE 2026-10-04 — replaces the 2026-09-25 20:04 tCKrf body lock.
-- FACE + HAIR + BODY = the chosen live master. Not tCKrf. Not the KInUD bust.
-- Not OL: assets/body/NanakoMasterReferenceFront_lingerie.jpg
-- OL smile: assets/body/NanakoMasterReferenceFront_OL_smile.jpg
-- OL not smiling: assets/body/NanakoMasterReferenceFront_OL_nonsmile.jpg
-- Face hidden: assets/body/NanakoMasterReferenceBack_lingerie.jpg
-- Photo examples win.
-- Do not use NanakoMasterReferenceFront.jpg, pantry, 14_sdwxn, WideStand, or 020008.
