@@ -25,7 +25,7 @@ OL means office lady, secretary, blazer, pantry, 茶水間, coffee machine.
 
 The lingerie front is the new tvl3k. Do not start from `NanakoMasterReferenceFront.jpg`.
 
-Write note: `references/WRITE_2026-10-04_0328.txt`. Do not read WRITE_2026-09-25_2004.txt. That name is deleted.
+Write note: `references/WRITE_2026-10-04_0328.txt`.
 
 ## Donates
 
