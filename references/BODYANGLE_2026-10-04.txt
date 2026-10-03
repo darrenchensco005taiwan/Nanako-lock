@@ -1,0 +1,7 @@
+2026-10-04. Body yaw only. Does not change skeleton or thigh shaft.
+
+Axial grand view defaults to full front body and full front face. Feet may open and stay symmetric. No fashion hip-cock on an axial view.
+Head turn is optional. Default gaze on axis is level or slightly down.
+Asymmetric crop may yaw up to 30 degrees. Not a pure profile unless named.
+Angle plates do not donate skeleton.
+Identity bones stay the chosen live master.
