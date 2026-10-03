@@ -7,7 +7,7 @@ metadata:
 
 # Nanako lock
 
-Compiled 2026-10-04. This file wins. Version 2026-09-19 and 2026-09-30-pantryOL-14sdwxn are abolished.
+Compiled 2026-10-04. This file wins.
 
 ## Live masters
 
@@ -23,7 +23,7 @@ Photo example in the prompt wins. Otherwise:
 
 OL means office lady, secretary, blazer, pantry, 茶水間, coffee machine.
 
-The lingerie front is the new tvl3k. Do not start from `NanakoMasterReferenceFront.jpg`.
+The lingerie front is the new tvl3k. Start only from the table.
 
 Write note: `references/WRITE_2026-10-04_0328.txt`.
 
@@ -35,9 +35,17 @@ Face bones, hair, skin, grade, H, skeleton, hip-to-knee pencil shafts, and the c
 
 Head position, yaw, gaze, expression, and action are free. Do not clone the donor neck. No baked tiny man. Stamp is PIL after accept.
 
-## Abolished — never file_path, never ref
+## Other rails
 
-`NanakoMasterReferenceFront.jpg`, `NanakoMasterReferenceFront_tvl3k-4096h.jpg`, pantry, 14_sdwxn, WideStand, tCKrf, KInUD bust, 7CTk1, 020008, castle-stair, xDMuy as a body, last output, the 68–76% fill band.
+These do not change her skeleton. Read the named file.
+
+- Body yaw: `references/BODYANGLE_2026-10-04.txt`
+- Heel versus head: `references/HEELHEAD_2026-10-04.txt`
+- Shoe last and cap: `references/SHOE_2026-10-04.txt`
+- Camera and scene: `references/CAMERA_SCENE_2026-10-04.txt`
+- Photo grade: `references/CAMERA_GRADE_2026-10-04.txt`
+- Lore: `references/LORE_2026-10-04.txt`
+- Stamp: `references/STAMP_2026-10-04.txt` and skill grok-ministamp. 18×24. Sy = Ny - 24 + 1. Left Sx = Nx - 27. Right Sx = Nx + 9.
 
 ## First shot
 
